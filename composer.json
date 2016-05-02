@@ -1,0 +1,17 @@
+{
+    "name": "cantseethecode/twenty-forty-eight",
+    "description": "PHP implementation of the game 2048.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Wells",
+            "email": "matt@cantseethecode.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CantSeeTheCode\\TwentyFortyEight\\": "src"
+        }
+    }
+}
